@@ -1,0 +1,25 @@
+{
+  "name": "ADAO",
+  "logoURI":"https://ipfs.io/ipfs/Qmc5CGUJ5whdK4WVNXCYyu9toYdezqxpd6rDQvHBUuHfrV",
+  "keywords": [
+    "ADAO",
+    "DEFI"
+  ],
+  "timestamp": "2021-01-26T23:23:57+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x71fbc1d795fcfbca43a3ebf6de0101952f31a410",
+      "symbol": "ADAO",
+      "name": "revelation.finance",
+      "decimals": 18,
+      "logoURI": "https://ipfs.io/ipfs/Qmc5CGUJ5whdK4WVNXCYyu9toYdezqxpd6rDQvHBUuHfrV"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
+
